@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# custom
+ca-cert*
+librdkafka/
+run-producer-loop.sh
+run-producer.sh
